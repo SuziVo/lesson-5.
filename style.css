@@ -4,7 +4,7 @@ h1{
 	margin-right: 966px;
 	margin-top: 91px;
 	height: 36px;
-	width: 294;
+	width: 294px;
 	text-align: left;
 
 }
@@ -60,4 +60,21 @@ div{
 	width: 438px;
 	display: inline-block;
 	padding-top: 30px;
+}
+h2{
+	margin-left: 180px;
+	font-size: 25px;
+	margin-right: 966px;
+	margin-top: 91px;
+	height: 36px;
+	width: 469px;
+	text-align: left;
+}
+.last{
+	height:326px ;
+	width:794px ;
+	font-size: 18px;
+	margin-left: 180px;
+	margin-right: 466px;
+	padding-top: 60px;
 }
