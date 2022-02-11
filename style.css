@@ -29,7 +29,15 @@ div{
 	height: 36px;
 	width: 110px;
 	font-size: 25px;
-	padding-left: 90px;
+	padding-left: 00px;
 	padding-top:60px ;
 	padding-right:1060px ;
+}
+.box1-text{
+	height:126px ;
+	width: 438px;
+	padding-right: 180px;
+	padding-left: 732;
+	padding-top: 30px;
+	display: inline-block;
 }
