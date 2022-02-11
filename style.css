@@ -36,17 +36,28 @@ div{
 .box1-text{
 	height:126px ;
 	width: 438px;
-	padding-right: 180px;
-	padding-left: 732;
-	padding-top: 30px;
 	display: inline-block;
+	padding-top: 30px;
 }
 .box2-text{
-	display: inline-block;
 	height:126px ;
 	width: 438px;
-	padding-left: 618px;
-	padding-right: 204px;
-	padding-top: 60px;
+	display: inline-block;
 }
-
+.box3-title{
+	height: 36px;
+	width: 110px;
+	font-size: 25px
+}
+.box3-text{
+	height:126px ;
+	width: 438px;
+	display: inline-block;
+	padding-top: 30px;
+}
+.box3-text2{
+	height:126px ;
+	width: 438px;
+	display: inline-block;
+	padding-top: 30px;
+}
